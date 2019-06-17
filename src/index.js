@@ -12,5 +12,5 @@ app.get('/', (req, res) => {
 const PORT = process.env.PORT || 9090
 
 app.listen(PORT, () => {
-    log.info(`API démarré en mode ${process.env.NODE_ENV} sur le port ${PORT}`)
+    log.info(`API started in mode ${process.env.NODE_ENV} on port ${PORT}`)
 })
