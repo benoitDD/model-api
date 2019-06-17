@@ -38,3 +38,4 @@ Now the api is available on [this](http://localhost:7000)
 * npm
 * vsc debug
 * eslint
+* jest
