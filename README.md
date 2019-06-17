@@ -1,4 +1,4 @@
-# model-api [![Build Status](https://travis-ci.org/benoitDD/model-api.svg?branch=master)](https://travis-ci.org/benoitDD/model-api)
+# model-api [![Build Status](https://travis-ci.org/benoitDD/model-api.svg?branch=master)](https://travis-ci.org/benoitDD/model-api) [![Maintainability](https://api.codeclimate.com/v1/badges/84c42ca8ef869df64122/maintainability)](https://codeclimate.com/github/benoitDD/model-api/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/84c42ca8ef869df64122/test_coverage)](https://codeclimate.com/github/benoitDD/model-api/test_coverage)
 Model project for a api
 
 ## Download
