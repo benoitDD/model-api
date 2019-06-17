@@ -11,7 +11,10 @@ module.exports = {
         "sourceType": "module"
     },
     "globals": {
-        "process": "readonly"
+        "process": "readonly",
+        "test": "readonly",
+        "describe": "readonly",
+        "expect": "readonly"
     },
     "rules": {
         "indent": [
