@@ -37,7 +37,8 @@ Now the api is available on [this](http://localhost:7000)
 * Dotenv
 * npm
 * vsc debug
-* eslint
-* jest
-* jenkins
-* travis
+* ESLint
+* Jest
+* Jenkins
+* Travis
+    * Code climate
