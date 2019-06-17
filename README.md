@@ -37,3 +37,4 @@ Now the api is available on [this](http://localhost:7000)
 * Dotenv
 * npm
 * vsc debug
+* eslint
