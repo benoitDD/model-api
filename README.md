@@ -36,3 +36,4 @@ Now the api is available on [this](http://localhost:7000)
     * Babel
 * Dotenv
 * npm
+* vsc debug
