@@ -1,4 +1,4 @@
-# model-api
+# model-api [![Build Status](https://travis-ci.org/benoitDD/model-api.svg?branch=master)](https://travis-ci.org/benoitDD/model-api)
 Model project for a api
 
 ## Download
