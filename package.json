@@ -13,7 +13,8 @@
     "watch-debug": "nodemon --exec \"npm run build-dev && npm run debug\"",
     "linter": "eslint src",
     "test": "jest",
-    "test-coverage": "jest --coverage"
+    "test-coverage": "jest --coverage",
+    "aws": "npm run build-prod && npm start"
   },
   "repository": {
     "type": "git",
